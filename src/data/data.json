@@ -1,0 +1,330 @@
+{
+	"dataAssistantName": "Erick Barasa",
+	"playersSessionStats": [
+		{
+			"sessionStatId": "0bae4955-72e0-4adc-bcc9-58d5beec84cb",
+			"playerId": "f7cd6bc7-f80e-46b7-a154-47d2320d7a8d",
+			"playerName": "Bright",
+			"clubAssignedStatName": "Yellow Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "29e49dec-f981-4009-8978-c024de281a48",
+			"playerId": "528b940e-7249-4c1d-a058-d7806b5916ab",
+			"playerName": "Omari",
+			"clubAssignedStatName": "Yellow Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "915963d2-47e7-421e-bde9-d1d00d054a05",
+			"playerId": "c1de63cd-a81b-4e00-9b4e-d8a402ddb99e",
+			"playerName": "Bonto",
+			"clubAssignedStatName": "Yellow Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "cb927958-4cb7-4845-8e6f-a8e516d6368a",
+			"playerId": "0fd022b8-49bd-4698-a81f-4ef41e71cce2",
+			"playerName": "Okombe",
+			"clubAssignedStatName": "Yellow Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "e10404a9-33d5-4e46-ba0e-1d9cab861112",
+			"playerId": "b724bebe-45a8-4006-b949-c90a61a37dec",
+			"playerName": "Kasua",
+			"clubAssignedStatName": "Yellow Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "46c259e5-7d6d-43ba-a651-88ce05e2f4ea",
+			"playerId": "60a1a5c1-8622-431f-9c0b-16f24213dc4c",
+			"playerName": "Solo",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "9515a111-1010-42b5-bbf5-aadcb2f772df",
+			"playerId": "6adec23a-e905-4b50-9ab8-14f2301d5bb1",
+			"playerName": "Mwanzo",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "b61e8581-4de2-47c2-a89c-f50f3e148abb",
+			"playerId": "a7df1084-bdcb-4116-848a-d44333c488c1",
+			"playerName": "Liyai",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "d48ae71c-f740-47c8-8f33-d8859f57d142",
+			"playerId": "48fa56c5-2f24-4223-bbc3-8302006be485",
+			"playerName": "Allan",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "e4b80ec6-a4aa-4899-ad8f-83bf6d97266d",
+			"playerId": "787e3189-3145-4ac4-a03b-6250f4ce5897",
+			"playerName": "Aura",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "e5134cad-dd31-4d0c-b3c4-4f17ff4f73c7",
+			"playerId": "ddf93d47-30d5-4bd1-a5f1-94412b45cdad",
+			"playerName": "Bony",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "ea3b759d-7c9e-4302-a42c-287ad925cb4c",
+			"playerId": "7da5a174-99b7-40b0-80d5-8fbd947f01ae",
+			"playerName": "Aleki",
+			"clubAssignedStatName": "Goals",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "6e1d5d47-e215-4545-b259-3859d7ae6f00",
+			"playerId": "bd7552f9-a449-4ba3-9422-c1848ed98278",
+			"playerName": "Matayo",
+			"clubAssignedStatName": "Green Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "94d58902-9117-4442-bd6d-b1fa2bb77caf",
+			"playerId": "3ed0ab82-5333-46b5-9695-ff35a26557ac",
+			"playerName": "Suk",
+			"clubAssignedStatName": "Green Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "d84ab72b-079a-4cf7-9a69-fc30d06786fd",
+			"playerId": "e8c8a51e-976c-43a0-8557-c04be8c54d09",
+			"playerName": "Basil",
+			"clubAssignedStatName": "Green Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "f4d5fc9b-f8b2-4b2d-891c-036df168514e",
+			"playerId": "215f54b9-bf23-4d96-b2e4-31e5eb351e77",
+			"playerName": "Rioba",
+			"clubAssignedStatName": "Green Cards",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "05b40e45-31d8-43b0-9a74-b3201a0f6340",
+			"playerId": "b724bebe-45a8-4006-b949-c90a61a37dec",
+			"playerName": "Kasua",
+			"clubAssignedStatName": "Assists",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "4513e706-72c0-46a7-af08-94074ec51863",
+			"playerId": "c1de63cd-a81b-4e00-9b4e-d8a402ddb99e",
+			"playerName": "Bonto",
+			"clubAssignedStatName": "Assists",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "900bf23e-3b8a-43c1-aea5-a8ab54f5f49c",
+			"playerId": "f7cd6bc7-f80e-46b7-a154-47d2320d7a8d",
+			"playerName": "Bright",
+			"clubAssignedStatName": "Assists",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "971df42d-0e7c-45b6-af91-1f05b059a0a7",
+			"playerId": "0fd022b8-49bd-4698-a81f-4ef41e71cce2",
+			"playerName": "Okombe",
+			"clubAssignedStatName": "Assists",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "fa0da010-8588-40b5-8c49-624ae5021920",
+			"playerId": "528b940e-7249-4c1d-a058-d7806b5916ab",
+			"playerName": "Omari",
+			"clubAssignedStatName": "Assists",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "155d7475-c75c-4ac1-ba72-d3ddb7c8f95a",
+			"playerId": "6adec23a-e905-4b50-9ab8-14f2301d5bb1",
+			"playerName": "Mwanzo",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "24c262ca-3a5b-4c4b-acfd-87e1d138eef5",
+			"playerId": "7da5a174-99b7-40b0-80d5-8fbd947f01ae",
+			"playerName": "Aleki",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "a05dcea5-462d-47b2-8d0f-c1de8f4dbc03",
+			"playerId": "48fa56c5-2f24-4223-bbc3-8302006be485",
+			"playerName": "Allan",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "b033045a-f2d0-4cce-9d5a-268413c752bc",
+			"playerId": "ddf93d47-30d5-4bd1-a5f1-94412b45cdad",
+			"playerName": "Bony",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "e62a3f5f-dd65-4057-84ca-15cac9b29851",
+			"playerId": "60a1a5c1-8622-431f-9c0b-16f24213dc4c",
+			"playerName": "Solo",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "ec6419b5-0a7a-489e-924a-8486f31ec486",
+			"playerId": "787e3189-3145-4ac4-a03b-6250f4ce5897",
+			"playerName": "Aura",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "ed90253a-9eaa-4e15-a695-dbb089545f4c",
+			"playerId": "a7df1084-bdcb-4116-848a-d44333c488c1",
+			"playerName": "Liyai",
+			"clubAssignedStatName": "Dribbles Completed",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "7b851395-9b8c-4a90-b880-4d0285829bad",
+			"playerId": "e8c8a51e-976c-43a0-8557-c04be8c54d09",
+			"playerName": "Basil",
+			"clubAssignedStatName": "Complete Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "ae42614a-09ad-45a5-aed3-d8800a61c88b",
+			"playerId": "3ed0ab82-5333-46b5-9695-ff35a26557ac",
+			"playerName": "Suk",
+			"clubAssignedStatName": "Complete Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "b8316429-f0ab-4f89-8916-26f52c5839f7",
+			"playerId": "bd7552f9-a449-4ba3-9422-c1848ed98278",
+			"playerName": "Matayo",
+			"clubAssignedStatName": "Complete Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "ef993023-1b3f-4df3-854d-08d7d22c7045",
+			"playerId": "215f54b9-bf23-4d96-b2e4-31e5eb351e77",
+			"playerName": "Rioba",
+			"clubAssignedStatName": "Complete Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "3e291720-1030-41c5-9dce-6b0c72a0e0d9",
+			"playerId": "0fd022b8-49bd-4698-a81f-4ef41e71cce2",
+			"playerName": "Okombe",
+			"clubAssignedStatName": "Attempted Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "64056a60-136f-4523-b8cd-2d1da3c54dda",
+			"playerId": "b724bebe-45a8-4006-b949-c90a61a37dec",
+			"playerName": "Kasua",
+			"clubAssignedStatName": "Attempted Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "9fd7b2e7-a139-470e-b989-236813ef5fc0",
+			"playerId": "f7cd6bc7-f80e-46b7-a154-47d2320d7a8d",
+			"playerName": "Bright",
+			"clubAssignedStatName": "Attempted Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "d5f37cae-8a00-4084-a770-6e40a60b4493",
+			"playerId": "c1de63cd-a81b-4e00-9b4e-d8a402ddb99e",
+			"playerName": "Bonto",
+			"clubAssignedStatName": "Attempted Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "d807592d-3766-4d35-9622-8c417cb769a4",
+			"playerId": "528b940e-7249-4c1d-a058-d7806b5916ab",
+			"playerName": "Omari",
+			"clubAssignedStatName": "Attempted Passes",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "164fb73b-fbd5-4663-910d-e5c500fd6504",
+			"playerId": "48fa56c5-2f24-4223-bbc3-8302006be485",
+			"playerName": "Allan",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "2e204cb4-14ab-4cba-b82e-674f14a49d68",
+			"playerId": "6adec23a-e905-4b50-9ab8-14f2301d5bb1",
+			"playerName": "Mwanzo",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "326a596a-74a0-4515-b569-745f82d4716d",
+			"playerId": "a7df1084-bdcb-4116-848a-d44333c488c1",
+			"playerName": "Liyai",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "46e8e249-ccdf-459d-aa40-23f55d78e39b",
+			"playerId": "787e3189-3145-4ac4-a03b-6250f4ce5897",
+			"playerName": "Aura",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "7680de47-2682-441a-8432-f129749ce940",
+			"playerId": "ddf93d47-30d5-4bd1-a5f1-94412b45cdad",
+			"playerName": "Bony",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "95b4deb8-ce5d-4bf2-a926-3258d48fd1e6",
+			"playerId": "7da5a174-99b7-40b0-80d5-8fbd947f01ae",
+			"playerName": "Aleki",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		},
+		{
+			"sessionStatId": "ccd8cdf7-0cd4-438d-9992-34ce3a4021ec",
+			"playerId": "60a1a5c1-8622-431f-9c0b-16f24213dc4c",
+			"playerName": "Solo",
+			"clubAssignedStatName": "Tackles Won",
+			"lastUpdated": null
+		}
+	],
+	"teamSessionStats": [
+		{
+			"sessionStatId": "95e5e453-1b3a-4e5e-84b1-ca1fb72c9cbb",
+			"clubAssignedStatName": "Penalty Corner Goals",
+			"lastUpdated": "2023-10-17T05:55:41.041003"
+		},
+		{
+			"sessionStatId": "4de0e5fe-d03a-41c0-8e62-25e55e6f5dba",
+			"clubAssignedStatName": "Shots on Target",
+			"lastUpdated": "2023-10-17T05:55:52.243321"
+		},
+		{
+			"sessionStatId": "5ae997e0-2c1c-436b-a3d0-d1407b4e071c",
+			"clubAssignedStatName": "Penalty Strokes",
+			"lastUpdated": null
+		}
+	]
+}
